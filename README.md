@@ -1,16 +1,54 @@
-# I love meowing 🐾
+# Love meowing 🐾
 
 <img src="cat.jpg" alt="Cat" width="100%">
 
-| | | |
-| :--- | :--- | :--- |
-| 🇬🇧 Meow | 🇫🇷 Miaou | 🇪🇸 Miau |
-| 🇩🇪 Miau | 🇮🇹 Miao | 🇵🇹 Miau |
-| 🇹🇷 Miyav | 🇳🇱 Miauw | 🇸🇪 Mjau |
-| 🇳🇴 Mjau | 🇩🇰 Mjau | 🇫🇮 Miau |
-| 🇪🇪 Mjau | 🇱🇻 Miau | 🇱🇹 Miau |
-| 🇷🇴 Miau | 🇭🇺 Nyávogás | 🇬🇷 Νιάου |
-| 🇯🇵 ニャー (Nyā) | 🇰🇷 야옹 (Yaong) | 🇨🇳 喵 (Miāo) |
-| 🇻🇳 Meo | 🇹🇭 เหมียว (Miao) | 🇮🇱 מיאו (Miau) |
-| 🇮🇩 Meong | 🇲🇾 Ngiau | 🇫连 Mjá |
-| 🇦连 Mayu | 🇦🇱 Miau | 🇮🇪 Miau |
+## Polyglot Cat 🐱
+
+<table width="100%" border="0">
+<tr>
+<td width="25%" valign="top">
+
+* 🇬🇧 Meow
+* 🇫🇷 Miaou
+* 🇪🇸 Miau
+* 🇩🇪 Miau
+* 🇮🇹 Miao
+* 🇵🇹 Miau
+* 🇹🇷 Miyav
+
+</td>
+<td width="25%" valign="top">
+
+* 🇳🇱 Miauw
+* 🇸🇪 Mjau
+* 🇳🇴 Mjau
+* 🇩🇰 Mjau
+* 🇫🇮 Miau
+* 🇪🇪 Mjau
+* 🇱🇻 Miau
+
+</td>
+<td width="25%" valign="top">
+
+* 🇱🇹 Miau
+* 🇷🇴 Miau
+* 🇭🇺 Nyávogás
+* 🇬🇷 Νιάου
+* 🇯🇵 ニャー (Nyā)
+* 🇰🇷 야옹 (Yaong)
+* 🇨🇳 喵 (Miāo)
+
+</td>
+<td width="25%" valign="top">
+
+* 🇻🇳 Meo
+* 🇹🇭 เหมียว
+* 🇮🇱 מיאו (Miau)
+* 🇮🇩 Meong
+* 🇲🇾 Ngiau
+* 🇮🇸 Mjá
+* 🇦🇱 Miau
+
+</td>
+</tr>
+</table>

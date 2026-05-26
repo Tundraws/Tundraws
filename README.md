@@ -2,63 +2,16 @@
 
 <img src="cat.jpg" alt="Cat" width="100%">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐾
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐾
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐾
-&nbsp;&nbsp;&nbsp;&nbsp;🐾
-🐾
-&nbsp;&nbsp;&nbsp;&nbsp;🐾
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐾
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐾
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐾
+<p align="center">
 
-## Polyglot Cat 🐱
+𓃠　　　𓃠　　　　　　𓃠　　　　𓃠
 
-<table width="100%" border="0">
-<tr>
-<td width="25%" valign="top">
+　　　𓃠　　　𓃠　　　　　　𓃠
 
-* 🇬🇧 Meow
-* 🇫🇷 Miaou
-* 🇪🇸 Miau
-* 🇩🇪 Miau
-* 🇮🇹 Miao
-* 🇵🇹 Miau
-* 🇹🇷 Miyav
+𓃠　　　　　　𓃠　　　𓃠
 
-</td>
-<td width="25%" valign="top">
+　　　𓃠　　　　　　𓃠　　　𓃠
 
-* 🇳🇱 Miauw
-* 🇸🇪 Mjau
-* 🇳🇴 Mjau
-* 🇩🇰 Mjau
-* 🇫🇮 Miau
-* 🇪🇪 Mjau
-* 🇱🇻 Miau
+</p>
 
-</td>
-<td width="25%" valign="top">
 
-* 🇱🇹 Miau
-* 🇷🇴 Miau
-* 🇭🇺 Nyávogás
-* 🇬🇷 Νιάου
-* 🇯🇵 ニャー (Nyā)
-* 🇰🇷 야옹 (Yaong)
-* 🇨🇳 喵 (Miāo)
-
-</td>
-<td width="25%" valign="top">
-
-* 🇻🇳 Meo
-* 🇹🇭 เหมียว
-* 🇮🇱 מיאו (Miau)
-* 🇮🇩 Meong
-* 🇲🇾 Ngiau
-* 🇮🇸 Mjá
-* 🇦🇱 Miau
-
-</td>
-</tr>
-</table>

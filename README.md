@@ -1,16 +1,31 @@
-## Hi there 👋
+# I love meowing 🐾
 
-<!--
-**Tundraws/Tundraws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="cat.jpg" alt="Cat" width="400">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encanta maullar
+J'aime miauler
+Ich liebe es zu miauen
+Amo miagolare
+Eu amo miar
+Miyavlamayı seviyorum
+Uwielbiam miauczeć
+Miluji mňoukání
+Ik hou van miauwen
+Jag älskar att mjava
+Jeg elsker å mjaue
+Jeg elsker at miave
+Rakastan miukumista
+Mulle meeldib meauvuda
+Man patīk ņaudēt
+Man patinka miaukti
+Îmi place să miaun
+Szeretek nyávogni
+Μου αρέσει να νιαουρίζω
+Volim da mijaučem
+ニャーニャー鳴くのが大好きです
+야옹하는 것을 좋아합니다
+我喜欢喵喵叫
+Tôi thích kêu meo meo
+ฉันชอบร้องเหมียว
+אני אוהב לילל
